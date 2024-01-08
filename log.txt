@@ -1,3 +1,4 @@
 
 !"#%&&Key.rightK
-Samler hendelser til det stoppes ved backspace
+Samler hendelser til det stoppes ved backspaceAdding Ke
+
