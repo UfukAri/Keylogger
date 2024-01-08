@@ -3,6 +3,6 @@ Test 1: Tester om all tastetrykk blir logget til log.txt: Passordet: Sommer2024
 Test 2: Tester mellomrom (Space), Tab, backspace og om enter fungerer: Dette    er en
 test.
 
-Test 3: Tester ut om æøå fungerer: Bokstavene ÆØÅ fungerer fint.
+Test 3: Tester ut om æ, ø og å fungerer: Bokstavene ÆØÅ fungerer fint.
 
 Test 4: Dette er en test om ESC-tastetrykket: [ESC]
