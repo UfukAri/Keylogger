@@ -70,7 +70,7 @@ Edukasjon og bevissthet:
 
 $\color{red}{Det\ er\ viktig\ å\ merke\ seg\ at\ bruken\ av\ Keyloggere\ uten\ samtykke\ fra\ den\ enkelte\ som\ blir\ overvåket,\ generelt\ betraktes\}$ 
 
-$\color{red}{ som\ uetisk\ og\ i\ mange\ tilfeller\ ulovlig. Personvernlover\ og\ regler\ varierer\ etter }$ 
+$\color{red}{ som\ uetisk\ og\ i\ mange\ tilfeller\ ulovlig. Personvernlover\ og\ regler\ varierer\ etter\ jurisdiksjon,\ og\ enkeltpersoner\ har\}$ 
 
 
-$\color{red}{\ jurisdiksjon,\ og\ enkeltpersoner\ har\ rett\ til\ å\ vite\ og\ samtykke\ til\ å\ bli\ overvåket.}$
+$\color{red}{rett\ til\ å\ vite\ og\ samtykke\ til\ å\ bli\ overvåket.}$
