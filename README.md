@@ -69,7 +69,7 @@ Unngå å logge inn på sensitive kontoer fra offentlige datamaskiner, da disse 
 **9. USB-sikkerhet:**
 Unngå å bruke ukjente USB-enheter, spesielt på offentlige steder. USB-keyloggere kan være skjult i slike enheter.
 
-$\color{red}{\text{Det\ er\ viktig\ å\ merke\ seg\ at\ bruken\ av\ Keyloggere\ uten\ samtykke\ fra\ den\ enkelte\ som\ blir\ overvåket,\ generelt\ betraktes\}}$ 
+$\color{red}{\text{Det er viktig å merke seg at bruken av Keyloggere uten samtykke fra den enkelte som blir overvåket, generelt betraktes}}$ 
 
 $\color{red}{ som\ uetisk\ og\ i\ mange\ tilfeller\ ulovlig. Personvernlover\ og\ regler\ varierer\ etter\ jurisdiksjon,\ og\ enkeltpersoner\ har\}$ 
 
